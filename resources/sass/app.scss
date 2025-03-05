@@ -1,0 +1,108 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import '~admin-lte/dist/css/adminlte.css';
+@import '~vue-select/dist/vue-select.css';
+@import '~vue2-datepicker/index.css';
+
+
+// Font Awesome
+@import "~@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "~@fortawesome/fontawesome-free/scss/solid.scss";
+@import "~@fortawesome/fontawesome-free/scss/regular.scss";
+@import "~@fortawesome/fontawesome-free/scss/brands.scss";
+
+// sweet alert
+@import 'sweetalert2/src/sweetalert2.scss';
+// import 'sweetalert2/src/sweetalert2.scss'
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.blue {color: $blue;}
+.indigo {color: $indigo;}
+.purple {color: $purple;}
+.pink {color: $pink;}
+.red {color: $red;}
+.orange {color: $orange;}
+.yellow {color: $yellow;}
+.green {color: $green;}
+.teal {color: $teal;}
+.cyan {color: $cyan;}
+
+
+// .content-header{
+//   padding: 10px 0.5rem !important;
+// }
+
+.font-size-large{
+    font-size: 1.5rem !important;
+}
+.font-size-medium{
+    font-size: 1.25rem !important;
+}
+.font-size-normal{
+    font-size: 1.15rem !important;
+}
+body{
+    font-size:1rem !important;
+}
+.bg-color-dark-green{
+    background-color: #006600 !important    ;
+    color:#fff !important;
+}
+.bg-color-dark-green:hover{
+    background-color: #000 !important    ;
+    color:#fff !important;
+}
+.bg-color-light-blue{
+    background-color: #c0dfff  !important    ;
+    color:#000 !important;
+}
+.vs__search{
+    font-size: 1rem !important;
+}
+.font-light{
+    font-weight: 100 !important;
+}
+.font-bold{
+    font-weight: 600 !important;
+}
+.bg-color-navy{
+    background-color: #0E185F  !important    ;
+    color:#fff !important;
+}
+
+.tbl-black-border td {
+    border-color: black;
+}
+.tbl-black-border th {
+    border-color: black;
+}
+.content-header{
+    padding: 0px !important;
+}
+.card-title {
+    margin-bottom: 0px !important;
+}
+
+.card-body{
+    padding-top: 1rem !important;
+    padding-bottom: 0px !important;
+    padding-left: 0.25rem !important;
+    padding-right: 0.25rem !important;
+}
+.cart-header{
+    padding-top: 0.20rem !important;
+
+    padding-bottom: 0.20rem !important;
+
+}
+

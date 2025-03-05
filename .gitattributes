@@ -1,0 +1,10 @@
+* text=auto
+*.css linguist-vendored
+*.scss linguist-vendored
+*.js linguist-vendored
+CHANGELOG.md export-ignore
+/public/js/app.js merge=ours
+/public/js/app.js.LICENSE.txt merge=ours
+/public/js/app.js.map merge=ours
+/public/css/app.css merge=ours
+/public/css/app.css.map merge=ours
