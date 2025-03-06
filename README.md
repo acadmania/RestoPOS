@@ -2,8 +2,8 @@
 
 RestoPOS is a **SaaS-based multi-tenancy restaurant billing & management system** built with **Laravel** and **Vue.js**. It leverages **AdminLTE** for the UI and **Stancl Tenancy** for multi-tenancy management.
 
--PHP8.1
--Node 16.17.1
+- PHP8.1
+- Node 16.17.1
 
 ## Features
 
