@@ -5,6 +5,9 @@ RestoPOS is a **SaaS-based multi-tenancy restaurant billing & management system*
 ![POS Screen](images/pos.jpeg)
 ![Product Screen](images/product-list.jpeg)
 
+- PHP8.1
+- Node 16.17.1
+
 ## Features
 
 - Multi-tenancy support using **Stancl Tenancy**
